@@ -25,6 +25,8 @@ If a page exists about something, any reference to it should be a link, not just
 
 #### Session log
 
+> **For readers:** `git pull`, to recieve the last session's changes.
+
 1. Create it, duh. See [[Session logs/_README#Sessions]]
 2. Add Start checkpoint.
 
