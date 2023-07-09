@@ -1,12 +1,10 @@
 [[#*Unnamed, unknown characters|Every*]] character should have a note.
 
-> Check out [[_John Doe]]
 > Not every single note needs to fill this template. Not every character has all information.
 
 # Character note content
 
-#todo maybe try writing the template first.
-#todo Add a Log section for major events. each entry can be a short description, and a link in the relevant Session Log.... should i? Major events would appear in the Session Log with a direct link to the character page anyway... Backlinks would work.
+#todo 
 
 # NPC
 
