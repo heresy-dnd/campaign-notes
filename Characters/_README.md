@@ -71,7 +71,6 @@ If an unmentioned character reoccurs more than once, either:
 
 # Players
 
-When possible, note player stats. Why not...
 Players have their own dedicated folder.
 
 The Player directory should stay clean and **only with players that are actively playing.**
