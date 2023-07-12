@@ -4,7 +4,7 @@ Spells do not require materials, WITH EXCEPTIONS
 1. [Base explanation](https://discord.com/channels/1126260950429872178/1126260950429872180/1128414517076959262)
 2. [Explanation of exception](https://discord.com/channels/1126260950429872178/1126260950429872180/1128416254953263124)
 
-### Exception: Special cases
+### Exception: "because i said so"
 
 DM can just decide to give a spell a cost.
 
