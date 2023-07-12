@@ -6,7 +6,7 @@ Spells do not require materials, WITH EXCEPTIONS
 
 ### Exception: "because i said so"
 
-DM can just decide to give a spell a cost.
+DM can just decide to give a spell its cost back.
 
 Here is a list of spells that have previously been **forced to have a cost**:
 
