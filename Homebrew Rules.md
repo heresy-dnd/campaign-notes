@@ -7,8 +7,14 @@ Spells do not require materials, WITH EXCEPTIONS
 ### Exception: Special cases
 
 DM can just decide to give a spell a cost.
-Here is a list of spells that have previously been part of this exception:
-- (A vague mention that resurrection spells probably need materials)
+
+Here is a list of spells that have previously been **forced to have a cost**:
+
+- [(A vague mention that resurrection spells probably need materials)](https://discord.com/channels/1126260950429872178/1126260950429872180/1128415626088681593)
+
+Here is a list of spells that have previously had their **cost removed despite the other exception**:
+
+- (none so far)
 
 ### Exception: High Cost
 
