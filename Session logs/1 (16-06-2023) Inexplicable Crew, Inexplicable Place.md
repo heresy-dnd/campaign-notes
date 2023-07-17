@@ -200,7 +200,7 @@ I MADE YOU TO CONTINUE THIS IN CASE OF EMERGENCY, NOT FUCK UP EVEN THE CONTINGEN
 Within the mist of scrap that was caused by the collision you are miraculously held mid air by a power as he pulls both ([[Elster]], [[Horin]]) of you towards you:
 [[Shadowy Man]]:  **"You are not supposed to be here..."**
 
-[[Elster]]: "didn't you send us here?"
+[[Solveig]]: "didn't you send us here?"
 
 [[Shadowy Man]]: **"Send you? If anything you should still be in the plains"**
 
