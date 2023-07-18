@@ -19,7 +19,7 @@ Race: #unknown
 > *After that it's all a weird mismatch of moments. You looking down examining your hands and new found powers. Pacing through the streets of your neighborhood, closely examining the chaos that ensued from people being shot on the spot to women and children being dragged out of their homes from giant stacks of metal.*
 > *You remember the downfall of everything from the school you were to attend, to the village you'd sit in a warm hug under a tree with your dear friend, only now you'd hold their bloodied body in their arms.*
 > 
-> *~ [[1 (16-06-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
+> *~ [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
 
 # Appearance
 
