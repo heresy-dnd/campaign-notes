@@ -1,5 +1,3 @@
-#todo rename as soon as a name or nickname for this place exists
-
 > No map for now, since given the portal and dissolving terrain, its uncertain if this is a conventional, static space.
 
 A tunnel, half collapsed.

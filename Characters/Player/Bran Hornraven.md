@@ -14,4 +14,3 @@ Race: #unknown
 # Appearance
 
 ![[Hornraven Portrait.png]]
-#todo 

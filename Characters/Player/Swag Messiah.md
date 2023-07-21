@@ -19,8 +19,6 @@ Wears a bunch of rings.
 
 [[Shadowy Man]] said something.
 
-#todo 
-
 ## What is he remembering in his near death moment?
 
 [[2 (19-07-2023) Chill vibes and chilled spines#The Swag incident.]]

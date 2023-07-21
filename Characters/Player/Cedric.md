@@ -13,7 +13,7 @@ Race: #unknown
 
 # Appearance
 
-#todo 
+#unknown 
 
 # Questions
 

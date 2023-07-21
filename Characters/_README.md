@@ -2,10 +2,6 @@
 
 > Not every single note needs to fill this template. Not every character has all information.
 
-# Character note content
-
-#todo 
-
 # NPC
 
 ### Importance levels
