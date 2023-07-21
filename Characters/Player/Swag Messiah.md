@@ -13,8 +13,14 @@ This, including color.
 Wears a bunch of rings.
 ![[Swag Messiah Portrait.png]]
 
-# What is [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#^483304|"it"]] ?
+# Questions
+
+## What is [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#^483304|"it"]] ?
 
 [[Shadowy Man]] said something.
 
 #todo 
+
+## What is he remembering in his near death moment?
+
+[[2 (19-07-2023) Chill vibes and chilled spines#The Swag incident.]]

@@ -1,6 +1,6 @@
 *Played by Atom*
 
-Class: #unknown
+Class: **Ranger**
 Race: #unknown 
 
 > *Your fate [[Bran Hornraven]] is not less tragic than the rest. After doing various odd jobs from killing small fry that owe to loansharks to stealing weapons from officers, you managed to secure enough money for you to find a ship and a small crew.*

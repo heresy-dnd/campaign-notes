@@ -15,7 +15,9 @@ Race: #unknown
 
 #todo 
 
-# The Chosen One? and Links with [[Solara]]
+# Questions
+
+## The Chosen One? and Links with [[Solara]]
 
 Showed interest in knowing more about [[Solara]] from [[Shadowy Man]], got ignored.
 However, [[Shadowy Man]] told him:
