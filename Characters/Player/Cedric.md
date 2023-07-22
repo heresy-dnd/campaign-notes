@@ -3,7 +3,7 @@
 Class: **Cleric**
 Race: #unknown 
 
-> *When it comes down to you [[Cedric]], your days would also not be very much different than each other, yet more intriguing than anything else. Every day you'd manage to learn or discover something you when it came down to the stars, the powers bestowed upon you by [[Solara]].*
+> *When it comes down to you Cedric, your days would also not be very much different than each other, yet more intriguing than anything else. Every day you'd manage to learn or discover something you when it came down to the stars, the powers bestowed upon you by [[Solara]].*
 > *On a stary night you'd be studying the various constellations with your telescope from your tower when you suddenly noticed a storm of falling stars engulfing the skies.*
 > *Quickly averting your gaze to start noting this exceptionally rare phenomenon in your journal, your eyes focus on the town far down the valley from your window.*
 > *It was set ablaze, or whatever was left of it for half the city now belonged to the crater next to it.*

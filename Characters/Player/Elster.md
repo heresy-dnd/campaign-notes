@@ -3,7 +3,7 @@
 Class: #unknown 
 Race: #unknown 
 
-> *The last one, and probably most unfortunate one of you all, is you [[Elster]].*
+> *The last one, and probably most unfortunate one of you all, is you Elster.*
 > *You truly have been useless your entire life.*
 > *You never managed to accomplish anything outstanding. From your position, even accomplishing the most mundane every day tasks deserved a praise.*
 > *If it was not for that damned orb hanging around your neck and your dear friend Ariane from the village, nobody would be surprised, not even bat an eye if you offed yourself.*

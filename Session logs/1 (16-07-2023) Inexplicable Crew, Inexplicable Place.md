@@ -28,21 +28,21 @@ Big asshole came back to verbally abuse us some more before throwing us from the
 > _It has been incredibly long, perhaps and eternity since you forgotten what had happened to you. Floating in an endless, dark void, you people have started to doubt if you even remember who you are._
 > *That being said, you would probably have forgotten already had there not been these repeating memories playing in your head like a broken record.*
 > 
-> *For you [[Horin]], it's like yesterday you were preparing for that assault against the cultists. You still remember the faces of your comrades, all cheerful and ready to retake their homeland. Could not hide the heavy atmosphere however since most, if not all, did come to terms with the fact most of them would not be coming alive a long time ago.*
+> *For you [[Horin|Horin]], it's like yesterday you were preparing for that assault against the cultists. You still remember the faces of your comrades, all cheerful and ready to retake their homeland. Could not hide the heavy atmosphere however since most, if not all, did come to terms with the fact most of them would not be coming alive a long time ago.*
 > *If only you knew what would cause such a great rapture and make everyone fall deep down into that wretched chasm, your plan would have been perfect. And now you're here.*
 > 
-> *From your part [[Beliminorgath]], every living day you've spend prior to being thrown in this wretched place have slowly molded into one. You'd relive in your head the same day of waking up, helping around the farm, running for chores in the nearest village and practicing your bagpipes when you had free time.*
+> *From your part [[Beliminorgath|Beliminorgath]], every living day you've spend prior to being thrown in this wretched place have slowly molded into one. You'd relive in your head the same day of waking up, helping around the farm, running for chores in the nearest village and practicing your bagpipes when you had free time.*
 > *Yet every time you recall this simple life always ends with the same nightmare. All out warfare against an impossible foe where every time it ends with them breaking down the door to your farmhouse and charging in.*
 > 
 > *As for you [[Swag Messiah|Messiah]], you still remember yourself standing shoulder to shoulder with every mage from every corner of the world. Coming close to the end of the war, every single one of you made it their goal to make sure that whatever that hellish giant construct which dared disturb the order and piece of your lands would be once and for all sealed in the demiplanes of heaven and hell to the point where it was forgotten and removed entirely from the history books.*
 > 
-> *Your fate [[Bran Hornraven]] is not less tragic than the rest. After doing various odd jobs from killing small fry that owe to loansharks to stealing weapons from officers, you managed to secure enough money for you to find a ship and a small crew.*
+> *Your fate [[Bran Hornraven|Hornraven]] is not less tragic than the rest. After doing various odd jobs from killing small fry that owe to loansharks to stealing weapons from officers, you managed to secure enough money for you to find a ship and a small crew.*
 > *Having heard time and time again, you managed to track down the location of the legendary sword of ..... not that you ever cared. You just knew deep down it would fetch a very high price.*
 > *After setting off, you finally once again felt at home. You have finally answered the call of the oceans you used to travel every day. Turns out this trip would not last very long.*
 > *Approaching the presumed location of your prized booty, your ship was demolished with one quick strike of the tentacle from this monster.*
 > *You knew, you still know to this day however that this is not some mythological creature of the seas. You were too confident in your abilities to take down anything. But deep down you could not have defeated such a beast even with your old ship and crew. Wouldn't even stand a chance.*
 > 
-> *When it comes down to you [[Cedric]], your days would also not be very much different than each other, yet more intriguing than anything else. Every day you'd manage to learn or discover something you when it came down to the stars, the powers bestowed upon you by [[Solara]].*
+> *When it comes down to you [[Cedric|Cedric]], your days would also not be very much different than each other, yet more intriguing than anything else. Every day you'd manage to learn or discover something you when it came down to the stars, the powers bestowed upon you by [[Solara]].*
 > *On a stary night you'd be studying the various constellations with your telescope from your tower when you suddenly noticed a storm of falling stars engulfing the skies.*
 > *Quickly averting your gaze to start noting this exceptionally rare phenomenon in your journal, your eyes focus on the town far down the valley from your window.*
 > *It was set ablaze, or whatever was left of it for half the city now belonged to the crater next to it.*
@@ -55,7 +55,7 @@ Big asshole came back to verbally abuse us some more before throwing us from the
 > *Turning to face you at the edge of a catwalk you see the dark, shadowy figure of a man where the only destinguishalbe features are his glowing eyes and the armored gauntlets he is wearing.*
 > *As he covers the distance between the two of you in a single step, you have no time to react and look up as he grabs you by the neck of your shirt and throws you in the cauldron to meet your fate with the rest. As for the last thing you remember, it's him slowly pacing towards the open pathway you came from and leaving to the other side.*
 > 
-> *The last one, and probably most unfortunate one of you all, is you [[Elster]].*
+> *The last one, and probably most unfortunate one of you all, is you [[Elster|Elster]].*
 > *You truly have been useless your entire life.*
 > *You never managed to accomplish anything outstanding. From your position, even accomplishing the most mundane every day tasks deserved a praise.*
 > *If it was not for that damned orb hanging around your neck and your dear friend Ariane from the village, nobody would be surprised, not even bat an eye if you offed yourself.*
