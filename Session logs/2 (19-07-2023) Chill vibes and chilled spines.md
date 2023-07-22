@@ -111,7 +111,7 @@ He runs to the tents.
 [[Swag Messiah]] ==screams==: **"THEY'RE IN THE WHAT"**
 [[Beliminorgath]] ==yells at the top of his lungs==: **"GET THE FUCK BACK TO CAMP AND AWAY FROM THE FOREST LINE"**
 
-Simultaneously, [[Swag Messiah]] and [[Solveig]] are being attacked... (more on that later) ^e03c1f
+Simultaneously, [[Swag Messiah]] and [[Elle]] are being attacked... (more on that later) ^e03c1f
 
 [[Beliminorgath]] ==starts playing his bagpipes as loud as he can== to see if it has any effect on the entities.
 [[Cedric]] wakes up QUIETLY.
@@ -133,7 +133,7 @@ Knees down, "arms" on its head, ==it wails in pain, the sound almost deafening y
 
 [[#^e03c1f|When the attack started]]
 
-A roll by DM selects [[Swag Messiah]] and [[Solveig]] as targets.
+A roll by DM selects [[Swag Messiah]] and [[Elle]] as targets.
 
 Advantage dex save. **Fail.**
 As [[Swag Messiah]] wakes up, he suddently feels a tug on his ankle, is knocked down prone and dragged towards the lake.
@@ -175,7 +175,7 @@ He is out of the lake. Alive.
 
 # They're (maybe) gone
 
-Right about when Messiah emerged from the lake, [[Solveig]] is just standing there, knowing very well something was behind her.
+Right about when Messiah emerged from the lake, [[Elle]] is just standing there, knowing very well something was behind her.
 
 She turns back with her 3 lit torches and tries to take a look.
 The creature's back is centimeters away from her. Staring into the lake.
@@ -188,7 +188,7 @@ The creature from [[#The Swag incident.]] was never actually seen to leave.
 [[Swag Messiah]] ==screamed maybe twice.==
 
 [[Bran Hornraven]]: "Did anyone else get any kind of look on what these creatures were?"
-[[Solveig]]: "One thing I know is they seem to have four jaws that open like a flower"
+[[Elle]]: "One thing I know is they seem to have four jaws that open like a flower"
 [[Bran Hornraven]]: "perhaps there were several different creatures, the one I saw was like a deer"
 
 [[Bran Hornraven]], in reference to the creature he saw, asking if [[Cedric]] if he knows of it: "have you at least got anything on a deer that walks on its hind legs with antlers pointing downards?"

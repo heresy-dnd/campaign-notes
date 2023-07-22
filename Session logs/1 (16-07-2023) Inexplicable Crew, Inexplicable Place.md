@@ -48,7 +48,7 @@ Big asshole came back to verbally abuse us some more before throwing us from the
 > *It was set ablaze, or whatever was left of it for half the city now belonged to the crater next to it.*
 > *Quickly getting down from your tower to go and help those still hanging in there, you don't manage to take many steps out of your tower as the last thing you remember was one of those falling stars coming straight towards you, splitting into a thousand pieces just before impact.*
 > 
-> *In your case [[Solveig]], you've tried to forget. All this impossibly long time you've been trying to forget everything you've heard, and everything you saw.*
+> *In your case [[Elle|Solveig]], you've tried to forget. All this impossibly long time you've been trying to forget everything you've heard, and everything you saw.*
 > *All your life you've been thinking this power of yours to look into pathways in between the realms was a gift, when it quickly became a curse once you took one step into one wrong pathway you should never have known it even existed.*
 > *Being taken over by curiosity, you'd sneak very carefully into this weird plane, despite all the efforts from your retainer to stop you. You should have heard honestly. But you could never imagine you'd be 5 steps in and already walking over a metallic catwalk positioned roughly 5 meters above a boiling cauldron of thousands, if not millions of souls.*
 > *Not being able to hold back, you let out a scream in fear as the poor souls of the damned wail under you in pain. This scream of yours though caught the attention of something, no, someone far worse than every war that has happened and will ever happen combined.*
@@ -200,7 +200,7 @@ I MADE YOU TO CONTINUE THIS IN CASE OF EMERGENCY, NOT FUCK UP EVEN THE CONTINGEN
 Within the mist of scrap that was caused by the collision you are miraculously held mid air by a power as he pulls both ([[Elster]], [[Horin]]) of you towards you:
 [[Shadowy Man]]:  **"You are not supposed to be here..."**
 
-[[Solveig]]: "didn't you send us here?"
+[[Elle]]: "didn't you send us here?"
 
 [[Shadowy Man]]: **"Send you? If anything you should still be in the plains"**
 
@@ -239,7 +239,7 @@ As the construct stands up, you see a large and imposing suit of armor towering 
 It grabs its mace and slams it into the ground, causing to vibrate and summon 4 more constructs to fight alongside it.
 
 Initiative:
-[[Solveig]] 20
+[[Elle]] 20
 ~~[[Elster]] 19~~ She is not present.
 [[Bran Hornraven]] 17
 [[Beliminorgath]] 16
