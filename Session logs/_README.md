@@ -3,7 +3,11 @@ All **sessions**, the flow of **actions**, and important **things that have been
 # Sessions
 Each session is a note.
 The note is named:
-`{session number, starting from 1} {dd/mm/yyyy} {title, decided afterwards}`. ^1bb1d4
+`Session {number} - {title, decided afterwards}`. ^1bb1d4
+
+# Date
+
+The first line in the note is the date of when the session was played. `dd/mm/yyyy`
 
 # Checkpoints
 

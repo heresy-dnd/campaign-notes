@@ -5,7 +5,7 @@ Race: #unknown
 
 > *As for you Messiah, you still remember yourself standing shoulder to shoulder with every mage from every corner of the world. Coming close to the end of the war, every single one of you made it their goal to make sure that whatever that hellish giant construct which dared disturb the order and piece of your lands would be once and for all sealed in the demiplanes of heaven and hell to the point where it was forgotten and removed entirely from the history books.*
 > 
-> *~ [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
+> *~ [[Session 1 - Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
 
 # Appearance
 
@@ -15,10 +15,10 @@ Wears a bunch of rings.
 
 # Questions
 
-## What is [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#^483304|"it"]] ?
+## What is [[Session 1 - Inexplicable Crew, Inexplicable Place#^483304|"it"]] ?
 
 [[Shadowy Man]] said something.
 
 ## What is he remembering in his near death moment?
 
-[[2 (19-07-2023) Chill vibes and chilled spines#The Swag incident.]]
+[[Session 2 - Chill vibes and chilled spines#The Swag incident.]]

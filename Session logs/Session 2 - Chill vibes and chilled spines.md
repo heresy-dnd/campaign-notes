@@ -1,6 +1,8 @@
+19-07-2023
+
 # Recap
 
-Continuing from [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place|Session 1]], we are dropped in a lake.
+Continuing from [[Session 1 - Inexplicable Crew, Inexplicable Place|Session 1]], we are dropped in a lake.
 For most of us at least. Some hit the nearby ground. And that girl was missing.
 As the place seemed peaceful, or peaceful right now at least (there was evidence of murder or suicide deep in the lake), we went to gather things to make camp to rest a bit, including a campfire, tents and food (fish, berries). *don't ask me where the tents came from*
 Some people bothered drying their belongings previously soaked by the trip through the lake, some didn't.
@@ -37,7 +39,7 @@ None of us know where this place is.
 
 *Note:* "it has been QUITE LONG since you last ate anything and the hunger is starting to get to you"
 
-we are all reunited, except [[Elster]] who is still missing (last seen in [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#HOW THE FUCK WAS THIS MANAGED THIS TIME AROUND]])
+we are all reunited, except [[Elster]] who is still missing (last seen in [[Session 1 - Inexplicable Crew, Inexplicable Place#HOW THE FUCK WAS THIS MANAGED THIS TIME AROUND]])
 
 we make a camp, gather food.
 chill, talk a bit.

@@ -1,6 +1,6 @@
 > **There are at least 2 variants of these, or they all have unique looks.**
 
-Encountered in [[2 (19-07-2023) Chill vibes and chilled spines#Rest Second shift WHAT ARE THOSE.]]
+Encountered in [[Session 2 - Chill vibes and chilled spines#Rest Second shift WHAT ARE THOSE.]]
 
 # good to know:
 

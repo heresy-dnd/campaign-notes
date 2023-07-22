@@ -9,7 +9,7 @@ Race: #unknown
 > *Approaching the presumed location of your prized booty, your ship was demolished with one quick strike of the tentacle from this monster.*
 > *You knew, you still know to this day however that this is not some mythological creature of the seas. You were too confident in your abilities to take down anything. But deep down you could not have defeated such a beast even with your old ship and crew. Wouldn't even stand a chance.*
 > 
-> *~ [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
+> *~ [[Session 1 - Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
 
 # Appearance
 

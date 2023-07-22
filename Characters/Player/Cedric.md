@@ -9,7 +9,7 @@ Race: #unknown
 > *It was set ablaze, or whatever was left of it for half the city now belonged to the crater next to it.*
 > *Quickly getting down from your tower to go and help those still hanging in there, you don't manage to take many steps out of your tower as the last thing you remember was one of those falling stars coming straight towards you, splitting into a thousand pieces just before impact.*
 > 
-> *~ [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
+> *~ [[Session 1 - Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
 
 # Appearance
 

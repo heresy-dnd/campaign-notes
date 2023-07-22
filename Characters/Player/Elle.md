@@ -11,7 +11,7 @@ Race: #unknown
 > *Turning to face you at the edge of a catwalk you see the dark, shadowy figure of a man where the only destinguishalbe features are his glowing eyes and the armored gauntlets he is wearing.*
 > *As he covers the distance between the two of you in a single step, you have no time to react and look up as he grabs you by the neck of your shirt and throws you in the cauldron to meet your fate with the rest. As for the last thing you remember, it's him slowly pacing towards the open pathway you came from and leaving to the other side.*
 > 
-> *~ [[1 (16-07-2023) Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
+> *~ [[Session 1 - Inexplicable Crew, Inexplicable Place#Start - Campaign Introduction]]*
 
 # Appearance
 
