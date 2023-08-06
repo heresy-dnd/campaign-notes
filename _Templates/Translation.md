@@ -1,0 +1,1 @@
+> 🔮oh Great Orb of Translation, reveal the meaning!

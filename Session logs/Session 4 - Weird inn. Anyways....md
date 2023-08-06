@@ -350,6 +350,8 @@ Elle: "we did, yesterday."
 
 *Niko begins to just ramble*
 "сначала тут взорвут, потом кинут, теперь магия херакия повсюду, да такая что двери открываются против законов физики, ну куудааа меня занееслоо!"
+> 🔮oh Great Orb of Translation, reveal the meaning!
+> "first that explodes, then I fly, now there's magi-dicking all over the place, and so much that the doors opens against the laws of physics! Awhws wheere did I end up! "
 
 # Now that you are kicked out of the tavern, what do you do
 
