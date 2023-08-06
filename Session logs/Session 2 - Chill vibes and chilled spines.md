@@ -1,3 +1,7 @@
+---
+alias: Session 2
+---
+
 19-07-2023
 
 # Recap
@@ -49,7 +53,7 @@ there is also [lober](https://www.youtube.com/watch?v=chBvksW4yQI). incredible. 
 
 **At the bottom of the lake, there is a skeleton.**
 [[Horin]] in particular worries that this could be [[Elster]].
-[[Bran Hornraven]] dives to inspect it.
+[[Bran]] dives to inspect it.
 There is a deteriorated rope tied to a rock. Not too far, the remains of the rotting skeleton on the lake's floor.
 The bones are scattered and buried and he can't make much sense of it. **The skull, however, appears to be smaller than average.**
 Searching for items or trinkets, he finds only a rusted dagger.
@@ -68,10 +72,10 @@ The night falls.
 
 # Rest: Second shift: WHAT ARE THOSE.
 
-Shift done by: [[Bran Hornraven]] / [[Horin]]
+Shift done by: [[Bran]] / [[Horin]]
 
-[[Beliminorgath]] wakes up both, and tells [[Bran Hornraven]] what he felt.
-[[Bran Hornraven]], then looking at the waterfall - **confidently** sees nothing. (that was a nat 20 + 4)
+[[Beliminorgath]] wakes up both, and tells [[Bran]] what he felt.
+[[Bran]], then looking at the waterfall - **confidently** sees nothing. (that was a nat 20 + 4)
 
 The shift begins uneventfully.
 Except.
@@ -79,14 +83,14 @@ At one point.
 **The forest drops dead silent.**
 
 They go investigate the woods.
-[[Bran Hornraven]] first, finds an entity.
+[[Bran]] first, finds an entity.
 Just as he gets [[Horin]]'s attention, the creature scatters off.
 > May or may not be relevant - but [[Horin]] had a torch.
 
-[[Bran Hornraven]] whispers: "horin, did you see that? keep quiet"
+[[Bran]] whispers: "horin, did you see that? keep quiet"
 Searching the treeline for whatever that was, [[Horin]] sees nothing, panicking.
 
-[[Bran Hornraven]], however, sees SEVERAL of them hide behind trees.
+[[Bran]], however, sees SEVERAL of them hide behind trees.
 He also HEARS many more than what he saw, around them.
 
 > ℹ️Note: Highlighted noises!
@@ -97,7 +101,7 @@ He also HEARS many more than what he saw, around them.
 
 # The Horin incident.
 
-[[Bran Hornraven]] understood silence matters. He starts going back to the tents, grabbing [[Horin]]. This ends up saving [[Horin]]:
+[[Bran]] understood silence matters. He starts going back to the tents, grabbing [[Horin]]. This ends up saving [[Horin]]:
 one of those creatures was trying to pull him up the tree he was standing under, but Bran happened to hold him stronger than whatever that was.
 
 ==The clatter of armor and both of them falling== wakes the rest of the camp.
@@ -108,7 +112,7 @@ He runs to the tents.
 [[Beliminorgath]] ==groans loudly== before waking up.
 [[Horin]] ==screams.==
 
-[[Bran Hornraven]] is ALMOST attacked, but he hears the rustling of leaves above him and sidesteps just in time.
+[[Bran]] is ALMOST attacked, but he hears the rustling of leaves above him and sidesteps just in time.
 
 [[Swag Messiah]] ==screams==: **"THEY'RE IN THE WHAT"**
 [[Beliminorgath]] ==yells at the top of his lungs==: **"GET THE FUCK BACK TO CAMP AND AWAY FROM THE FOREST LINE"**
@@ -125,11 +129,11 @@ A creature bolts straight from the forest, going for a frontal impact with her.
 She is lucky: both her and the creature trip, and its hand grazes the campfire. 
 It runs back into the forest, with a ==loud screech==.
 
-[[Bran Hornraven]]: "fire. they fear fire"
+[[Bran]]: "fire. they fear fire"
 
 That creature SUDDENTLY stops in its tracks after re-entering the trees.
 Knees down, "arms" on its head, ==it wails in pain, the sound almost deafening you==.
-[[Bran Hornraven]], [[Swag Messiah]] and [[Horin]] get the Fear status effect. ^55a86f
+[[Bran]], [[Swag Messiah]] and [[Horin]] get the Fear status effect. ^55a86f
 
 # The Swag incident.
 
@@ -167,7 +171,7 @@ Back then, whatever it was **he wanted it.**
 **HE** had agreed to it.
 ### HE WAS READY FOR IT AND HE CHOSE IT.
 
-As the hallucinations merge with reality, he suddenly takes a good look at the skeleton [[Bran Hornraven]] was talking about.
+As the hallucinations merge with reality, he suddenly takes a good look at the skeleton [[Bran]] was talking about.
 Taking a good look at it, he does not care if it is real or not - but the gang signs the skeletons throws at him gives him one last ounce of strength to gather his thoughts and manage to shoot a lightning bolt straight down, paralyzing whatever the fuck it is in the process.
 
 As it lets go, Messiah swims to the shore as fast as his lightning.
@@ -189,11 +193,11 @@ The creature from [[#The Swag incident.]] was never actually seen to leave.
 
 [[Swag Messiah]] ==screamed maybe twice.==
 
-[[Bran Hornraven]]: "Did anyone else get any kind of look on what these creatures were?"
+[[Bran]]: "Did anyone else get any kind of look on what these creatures were?"
 [[Elle]]: "One thing I know is they seem to have four jaws that open like a flower"
-[[Bran Hornraven]]: "perhaps there were several different creatures, the one I saw was like a deer"
+[[Bran]]: "perhaps there were several different creatures, the one I saw was like a deer"
 
-[[Bran Hornraven]], in reference to the creature he saw, asking if [[Cedric]] if he knows of it: "have you at least got anything on a deer that walks on its hind legs with antlers pointing downards?"
+[[Bran]], in reference to the creature he saw, asking if [[Cedric]] if he knows of it: "have you at least got anything on a deer that walks on its hind legs with antlers pointing downards?"
 [[Cedric]]: "Nought that is not found outside the underdark, unless it could be demons or devilspawns. Prithee, [[Solara]] save us if that is the case."
 
 "Even on the battlefield, I did not know this... feeling. The feeling of death was common, sure, but the feeling of... dread? That's new. The feeling of not being able to defend, kill or even manage to see the enemy. The feeling of.... Uselessness. Perhaps the shadow person is torturing us this way?" [[Horin]] sighs, chucking a stone into the campfire.

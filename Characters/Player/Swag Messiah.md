@@ -1,3 +1,7 @@
+---
+alias: Swag, $wag Messiah, $wag
+---
+
 *Played by chipe*
 
 Class: **Wizard**

@@ -1,5 +1,8 @@
+---
+alias: Solveig
+---
+
 *Played by Hope*
-Aliases: "Elle", "Solveig"
 
 Class: #unknown 
 Race: #unknown 

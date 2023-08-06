@@ -1,3 +1,7 @@
+---
+alias: Bran Hornraven, Hornraven
+---
+
 *Played by Atom*
 
 Class: **Ranger**

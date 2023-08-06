@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"type":"group","id":"8a29c1688ebacf8c","x":-1200,"y":-1040,"width":1160,"height":920,"label":"README"},
+		{"type":"group","id":"f0b26759b9e05a69","x":1080,"y":40,"width":960,"height":400,"label":"sleeping / resting at the inn"},
+		{"type":"file","file":"Session logs/Session 3 - Civilization!.md","id":"00b546d8b4926f7b","x":520,"y":40,"width":400,"height":400},
+		{"type":"file","file":"Session logs/Session 1 - Inexplicable Crew, Inexplicable Place.md","id":"4d8fe8948ca8fc91","x":-600,"y":40,"width":400,"height":400},
+		{"type":"file","file":"Session logs/Session 2 - Chill vibes and chilled spines.md","id":"d60073a83cc1f3d8","x":-40,"y":40,"width":400,"height":400},
+		{"type":"text","text":"# Pre-Campaign","id":"6cb3498ff8ff122f","x":-1200,"y":199,"width":240,"height":81},
+		{"type":"text","text":"# This is happening in parallel\n\nbecause the blocks are horizontally aligned.","id":"df2d20979243e7dc","x":-520,"y":-960,"width":400,"height":200,"color":"3"},
+		{"type":"text","text":"# Welcome to the timeline!\n\nThis tracks when each session happened.\n\n# Connection lines\n\nCharacters in a connection line mean \"those characters went into that session\".\nOf course, if theres nobody written, it means everyone (or everyone else).\n\n==+== Character:\nthis is a new character ","id":"1fcc1cd473c9cf60","x":-1120,"y":-600,"width":400,"height":400},
+		{"type":"text","text":"# Color coding\n\nThe \"main timeline\" (where most of the party is) is uncolored.\n\nOther parallel sessions each have a different-ish colour just to visually separate them.","id":"154c26bdcef93f8a","x":-520,"y":-600,"width":400,"height":400},
+		{"type":"file","file":"Session logs/Session 4 - Weird inn. Anyways....md","id":"ee2c27aa6d98dfad","x":2240,"y":40,"width":400,"height":400},
+		{"type":"file","file":"Session logs/Session 3b PLACEHOLDER Elle meets Niko.md","id":"19049e36c02f6e67","x":1080,"y":-520,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Session logs/Session 4b PLACEHOLDER Elle and Niko dream.md","id":"bf89f226210cc51f","x":1640,"y":-520,"width":400,"height":400,"color":"4"},
+		{"type":"text","text":"# Whatever is happening with Elster...","id":"56e38c39583e96d3","x":-40,"y":1160,"width":610,"height":120,"color":"2"},
+		{"id":"8cf2bb3a8cd9993c","x":2800,"y":40,"width":400,"height":400,"type":"file","file":"Session logs/Session 5.md"},
+		{"type":"file","file":"Session logs/Session 4c PLACEHOLDER Cedric skooma trip.md","id":"facfa9380e155ef4","x":2040,"y":600,"width":400,"height":400,"color":"5"}
+	],
+	"edges":[
+		{"id":"18282eb5753c997c","fromNode":"4d8fe8948ca8fc91","fromSide":"right","toNode":"d60073a83cc1f3d8","toSide":"left"},
+		{"id":"ab39a0c6dbdead5b","fromNode":"d60073a83cc1f3d8","fromSide":"right","toNode":"00b546d8b4926f7b","toSide":"left"},
+		{"id":"75adfe5276a859f8","fromNode":"00b546d8b4926f7b","fromSide":"right","toNode":"ee2c27aa6d98dfad","toSide":"left","label":"Beli\nBran\n(Cedric: present but asleep from extreme skoomage)\nHorin\nSwag"},
+		{"id":"b7bee7d2b86b02fb","fromNode":"00b546d8b4926f7b","fromSide":"right","toNode":"19049e36c02f6e67","toSide":"left","color":"4","label":"Elle"},
+		{"id":"3d054d5ff7a74928","fromNode":"4d8fe8948ca8fc91","fromSide":"right","toNode":"56e38c39583e96d3","toSide":"left","color":"2","label":"Elster"},
+		{"id":"b59bbed2ba7aecc6","fromNode":"6cb3498ff8ff122f","fromSide":"right","toNode":"4d8fe8948ca8fc91","toSide":"left","label":"+ Beli\n+ Bran\n+ Cedric\n+ Elle\n+ Elster\n+ Horin\n+ Swag"},
+		{"id":"8294f1ea64a75c7a","fromNode":"19049e36c02f6e67","fromSide":"right","toNode":"bf89f226210cc51f","toSide":"left","color":"4","label":"+ Niko"},
+		{"id":"3ca35f1311af2dae","fromNode":"f0b26759b9e05a69","fromSide":"bottom","toNode":"facfa9380e155ef4","toSide":"left","color":"5","label":"Cedric"},
+		{"id":"c8c0dbbfa71233ca","fromNode":"1fcc1cd473c9cf60","fromSide":"right","toNode":"154c26bdcef93f8a","toSide":"left"},
+		{"id":"85734335faf878e5","fromNode":"154c26bdcef93f8a","fromSide":"top","toNode":"df2d20979243e7dc","toSide":"bottom","color":"3"},
+		{"id":"0669001a72e196d8","fromNode":"bf89f226210cc51f","fromSide":"right","toNode":"ee2c27aa6d98dfad","toSide":"left","color":"4","label":"+ Niko\nElle"},
+		{"id":"1268a8f86c395253","fromNode":"ee2c27aa6d98dfad","fromSide":"right","toNode":"8cf2bb3a8cd9993c","toSide":"left"}
+	]
+}

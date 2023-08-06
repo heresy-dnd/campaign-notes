@@ -1,3 +1,7 @@
+---
+alias: Beli, Beliminorgath The Flamboyant
+---
+
 *Played by Bogdan*
 
 Class: **Bard**

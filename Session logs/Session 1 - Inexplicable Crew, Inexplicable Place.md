@@ -1,3 +1,7 @@
+---
+alias: Session 1
+---
+
 16-07-2023
 
 # Recap
@@ -38,7 +42,7 @@ Big asshole came back to verbally abuse us some more before throwing us from the
 > 
 > *As for you [[Swag Messiah|Messiah]], you still remember yourself standing shoulder to shoulder with every mage from every corner of the world. Coming close to the end of the war, every single one of you made it their goal to make sure that whatever that hellish giant construct which dared disturb the order and piece of your lands would be once and for all sealed in the demiplanes of heaven and hell to the point where it was forgotten and removed entirely from the history books.*
 > 
-> *Your fate [[Bran Hornraven|Hornraven]] is not less tragic than the rest. After doing various odd jobs from killing small fry that owe to loansharks to stealing weapons from officers, you managed to secure enough money for you to find a ship and a small crew.*
+> *Your fate [[Bran|Hornraven]] is not less tragic than the rest. After doing various odd jobs from killing small fry that owe to loansharks to stealing weapons from officers, you managed to secure enough money for you to find a ship and a small crew.*
 > *Having heard time and time again, you managed to track down the location of the legendary sword of ..... not that you ever cared. You just knew deep down it would fetch a very high price.*
 > *After setting off, you finally once again felt at home. You have finally answered the call of the oceans you used to travel every day. Turns out this trip would not last very long.*
 > *Approaching the presumed location of your prized booty, your ship was demolished with one quick strike of the tentacle from this monster.*
@@ -141,7 +145,7 @@ The construct grabs the orb, and gives it back to [[Elster]].
 The party doesnt interrupt the robot.
 "... Sir? Sir are you alright?"
 
-[[Bran Hornraven]]: "Roko is fine, just a little tired. Nothing to worry about!"
+[[Bran]]: "Roko is fine, just a little tired. Nothing to worry about!"
 
 [[Useless Stewart]]: "Sir you do look a lot smaller that is true. The database however does match this girl with the one from Ǹ̴͐^̷̳͌ǐ̶̖(̸̈̐1̶͐̆2̸̀͝9̷̌2367492̉8̶̇̈)̶̒̂."
 
@@ -154,7 +158,7 @@ It turns off briefly, calculating.
 
 "41 galactic years and 2 days since you disappeared Sir."
 
-[[Bran Hornraven]]: "Yes, it's been a rather long time but we've brought Roko back for you."
+[[Bran]]: "Yes, it's been a rather long time but we've brought Roko back for you."
 
 [[Useless Stewart]]: "Sir, may I ask what these creatures are doing here with you and why are they not inhabitting the plane?"
 
@@ -165,7 +169,7 @@ It turns off briefly, calculating.
 > This conflicts with the DM saying that it corresponds to 230 million earth years.
 > Is the robot talking in a different type of year?
 
-[[Bran Hornraven]]: "We're friends of roko, made over those galactic years, nothing untoward I assure you - though we would like transportation back to the plane if you could help us with that..."
+[[Bran]]: "We're friends of roko, made over those galactic years, nothing untoward I assure you - though we would like transportation back to the plane if you could help us with that..."
 
 The deception check fails.
 
@@ -243,7 +247,7 @@ It grabs its mace and slams it into the ground, causing to vibrate and summon 4 
 Initiative:
 [[Elle]] 20
 ~~[[Elster]] 19~~ She is not present.
-[[Bran Hornraven]] 17
+[[Bran]] 17
 [[Beliminorgath]] 16
 [[Horin]] 7
 [[Cedric]] 4

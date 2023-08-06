@@ -36,3 +36,27 @@ Spell preparation is removed.
 1. [first message about it](https://discord.com/channels/1126260950429872178/1126260950429872180/1128411342471176223)
 2. [clearer explanation](https://discord.com/channels/1126260950429872178/1126260950429872180/1128412070140977212)
 3. [confirmation this is for wizards only](https://discord.com/channels/1126260950429872178/1126260950429872180/1128420772554211468)
+
+# Shared Dream sessions
+
+**If two or more characters sleep in close proximity (long rest), they get created a "slot" which can be filled with a dream session.**
+One player gets selecte to "take the lead" with the dream: they are now a DM, their character, and in general can do whatever as long as everyone else is okay with it.
+
+The DM acts as kind of their own character's subconsciousness. While I intended the environment in dreams to be reflective of the character's mental state, that is a guideline, not a rule.
+
+**All characters in the dream experience the dream and have the memory about that dream happening.**
+
+### Mechanics
+
+- If the character rolls for perception and gets a nat20, they become aware that this is a dream.
+- There are no death saving throws, unless DM really wants them to exist. If someone dies, they wake up. That's it.
+
+### Allowed things
+
+- If players feel like it, they can take turns DMing inside a single slot, so it can be like multiple dreams that flow into each other.
+
+### Avoid
+
+- It is **highly discouraged** to host dream sessions for long rests that have not happened yet.
+- It is generally best to not have the DM include player characters without those players participating in the session.
+  *You probably dont want someone to make your character do things, after all, it's your character.*

@@ -1,3 +1,7 @@
+---
+alias: Session 3
+---
+
 22-07-2023
 
 # Recap
@@ -44,7 +48,7 @@ Those who didnt sleep this night probably go to sleep now. (Bran, Beli, Elle)
 The group is now discussing what to do: we are considering to inspect the drowned skeleton.
 Also, it is still unclear if the creature that attacked [[Swag Messiah]] is still lurking in the lake.
 
-The group rests, with 3 taking watch: [[Bran Hornraven]], [[Beliminorgath]], [[Elle]].
+The group rests, with 3 taking watch: [[Bran]], [[Beliminorgath]], [[Elle]].
 The rest is uneventful.
 The group wakes up at 6am. ^0b2d91
 
@@ -54,7 +58,7 @@ Also, skooma is canon at least in Cedric's world
 # Lake dive 1
 
 The lake water is quite murky, so the skeleton can't be seen.
-[[Bran Hornraven]] ties a rope to a tree trunk.
+[[Bran]] ties a rope to a tree trunk.
 Inspecting the tree, there are no more [[SCP looking mf]], but unusually large claw marks are seen on the bark, that seem to move from tree to tree.
 
 [[Beliminorgath]] is going to descend down the lake, attached to a rope, with a torch in hand for light.
@@ -68,7 +72,7 @@ he was just tangled in seaweed lmao
 
 # Lake dive 2
 
-[[Bran Hornraven]] tries again.
+[[Bran]] tries again.
 He gets to the bottom just fine.
 
 Looking through the cloudy water, he does not see anything.
@@ -127,7 +131,7 @@ The group starts going towards it.
 > You wave to the fishermen. The one in the middle greets you back.
 > "Good morning travelers. What bring ye here to these parts of [[Aurelia]]? Could you perhaps be from [[Agatha]]?"
 
-[[Bran Hornraven]] and [[Elle]] try to remember this place, but (roll bad) no memory.
+[[Bran]] and [[Elle]] try to remember this place, but (roll bad) no memory.
 
 [[Beliminorgath]]: "Shelter and food mostly, and maybe some information"
 
@@ -138,7 +142,7 @@ The group starts going towards it.
 > The middle one looks at you Beli and says "Ah fear naught lad, it's just lately many weird travelers such as ye have passed from here looking for food and shelter."
 > He adds "By [[Mathlan]], not sure if you or the lady knight from yesterday is weirder."
 
-[[Bran Hornraven]]: "You wouldn't know of a small girl among any of these parties perchance? A very...odd girl"
+[[Bran]]: "You wouldn't know of a small girl among any of these parties perchance? A very...odd girl"
 
 > He scratches his white and salty beard as he tries to recall "Won't kid you lad, I don't recall stumblin over any kid like that."
 
@@ -146,7 +150,7 @@ The group starts going towards it.
 
 > The one on the right turns to you and says "Ah of course, [[Mathlan]] is the goddess of the sea. We fishermen take kindly in her blessings always for a good catch."
 
-[[Bran Hornraven]]: "Pray, what's the name of this port?"
+[[Bran]]: "Pray, what's the name of this port?"
 
 [[Swag Messiah]]: "...does she also help in lakes?"
 
@@ -159,14 +163,14 @@ The group starts going towards it.
 > "Ah this port belongs to the village up ahead. The entire region is dubbed knife's edge by the ruling family."
 > ℹ️ NOTE this sentence may be confusing. The village alone is later clarified to be knife's edge. Not some region surrounding it.
 
-[[Bran Hornraven]]: "And what family might that be? Who's the king of these lands?"
+[[Bran]]: "And what family might that be? Who's the king of these lands?"
 
 [[Horin]] answers more specifically about the lake.
-[[Swag Messiah]] and [[Bran Hornraven]] recommend to avoid it.
+[[Swag Messiah]] and [[Bran]] recommend to avoid it.
 
 > As the one on the right is about to answer, the one in the middle nudges him a bit as if he is signalling something, then says to you "We'd love to chat lads but we best hurry, these fish will start smelling and not be fit for the market." he says, as they all start quickly pacing towards the village.
 
-Insight check on the fishermen's true intentions by [[Bran Hornraven]] and [[Elle]].
+Insight check on the fishermen's true intentions by [[Bran]] and [[Elle]].
 > You do not understand what they truly were thinking, though they seemed quite cautious when you asked about the lord of the lands
 
 The group chooses to continue for the village.
@@ -178,7 +182,7 @@ The group chooses to continue for the village.
 > The houses are quite tall. Some lean more into the victorian aesthetic while others are quite weird as they are 3 or 4 floors high. These look kind of square and stony all around.
 > (For reference, think of modern housing but made with bricks and wooden pylons)
 
-[[Bran Hornraven]] looks for any clues about the town, its inhabitants, and its ruler. He does not see anything of note.
+[[Bran]] looks for any clues about the town, its inhabitants, and its ruler. He does not see anything of note.
 
 > Walking down the main road, you quickly come to a large open area. It looks like a square, tiled with brick.
 > Various market stalls are situated around the square and just as many guards overlooking the area.
@@ -191,16 +195,16 @@ The group decides to talk to a merchant to start getting the lay of the land.
 
 The rest of the market's stalls range from food vendors to blacksmiths
 
-[[Bran Hornraven]]: "Hail, friend. What have you for sale?"
+[[Bran]]: "Hail, friend. What have you for sale?"
 
 > He looks at you and says "AH! But a man of the sea. Tell me friend are you interested perhaps for a necklace for ye lass across the waters?"
 > "I deal in all sorts of jewelry from rings to crowns and even trade for the materials used in their craft."
 
-[[Bran Hornraven]]: "Is there much of a trade in crowns in these parts?"
+[[Bran]]: "Is there much of a trade in crowns in these parts?"
 
 > "For the common people no, these are a bit more delicate items sought either by royalty or wandering merchants. Would not mind taking an order friend if you have the coin however."
 
-[[Bran Hornraven]]: "Alas I've no need for a crown. I'm in need of some lodgings though, if you know of any. My party arrived here recently"
+[[Bran]]: "Alas I've no need for a crown. I'm in need of some lodgings though, if you know of any. My party arrived here recently"
 
 > "Ah, you need an inn then friend. You should go down the road towards the park and head right. That is where most inns and nightlife generally happen around here. Don't wander at night for too long though traveler." he scoffs as he finishes his sentence.
 
@@ -209,11 +213,11 @@ The rest of the market's stalls range from food vendors to blacksmiths
 > The jeweler leans over the stall and whispers to you "Look lady, you look like a nice person to me but be careful what you speak of out loud. These parts do not take kindly to these kind of items for reasons and I advice you do not prod so much into it." he adds
 > "If you have any that is fine, just do not go selling them left and right."
 
-[[Bran Hornraven]], going to a fisherman's stall, finds the 3 we met before again.
+[[Bran]], going to a fisherman's stall, finds the 3 we met before again.
 
 > The fisherman looks over to you "Ah if it is not one of the travelers. Well met friend what might you need?"
 
-[[Bran Hornraven]] buys stuff.
+[[Bran]] buys stuff.
 
 Nobody at the market is reacting strangely to the presence or look of the group.
 
