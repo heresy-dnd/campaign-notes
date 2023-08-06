@@ -10,7 +10,7 @@
 		{"type":"text","text":"","id":"f9d1ade219eea199","x":-1400,"y":-120,"width":50,"height":50},
 		{"id":"31747c115e5b046a","x":-1920,"y":-40,"width":250,"height":141,"type":"text","text":"[[Session 2 - Chill vibes and chilled spines|Where we got dropped: the lake is somewhere in this forest along the river.]]"},
 		{"type":"file","file":"Places/Aurelia/Knife's Edge.md","id":"d5b904d14a1bccfa","x":0,"y":-480,"width":260,"height":120},
-		{"type":"text","text":"[[Session 5#|First guild job, turned out trap, where we got ambushed by bandits.]]","id":"5ae4da6ae5963ef1","x":440,"y":-720,"width":260,"height":107}
+		{"type":"text","text":"[[Session 5 - It's a trap!#|First guild job, turned out trap, where we got ambushed by bandits.]]","id":"5ae4da6ae5963ef1","x":440,"y":-720,"width":260,"height":107}
 	],
 	"edges":[
 		{"id":"dc7f6c1c72913112","fromNode":"5ae4da6ae5963ef1","fromSide":"left","toNode":"7bac85449261b341","toSide":"right","color":"6"},

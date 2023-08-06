@@ -11,7 +11,7 @@ Deals with some *funny* magic in the inn: a magic door that can be connected to 
 
 [[Session 4 - Weird inn. Anyways...#^f0a708]]
 conflicts with
-[[Session 5#We start leaving the town, most reasonable investigation ever]]
+[[Session 5 - It's a trap!#We start leaving the town, most reasonable investigation ever]]
 
 # Link with The Tunnels
 
