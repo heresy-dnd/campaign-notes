@@ -1,4 +1,14 @@
-Bartender / Inn manager.
+---
+aliases:
+  - Erikson
+  - Erikson Von Sorensen
+  - Sorensen
+---
+Bartender / Inn manager... and a bit more.
+
+#todo this page needs to be updated now that we've seen what his deal is
+
+(Presumably) son of [[Roko]].
 
 Chronically bored.
 Deals with some *funny* magic in the inn: a magic door that can be connected to any of the inn's rooms, has wards in place or counterspells just to avoid disturbance to the guests...
@@ -12,6 +22,8 @@ Deals with some *funny* magic in the inn: a magic door that can be connected to 
 [[Session 4 - Weird inn. Anyways...#^f0a708]]
 conflicts with
 [[Session 5 - It's a trap!#We start leaving the town, most reasonable investigation ever]]
+-> Yes ok he does things alright.
+[[Session 6 - Now i get it.#OHHHHHH NOW I GET IT.|The entire tavern obeys him in a military way... even those that *look* like regular townsfolk.]]
 
 # Link with The Tunnels
 

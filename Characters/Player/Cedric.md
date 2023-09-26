@@ -19,8 +19,8 @@ Race: #unknown
 
 ## The Chosen One? and Links with [[Solara]]
 
-Showed interest in knowing more about [[Solara]] from [[Shadowy Man]], got ignored.
-However, [[Shadowy Man]] told him:
+Showed interest in knowing more about [[Solara]] from [[Roko]], got ignored.
+However, [[Roko]] told him:
 > "Oh so you are the chosen one this time around? Interesting choices she makes honestly."
 
 Cedric is bewildered at this.

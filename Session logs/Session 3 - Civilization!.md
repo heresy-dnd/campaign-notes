@@ -1,9 +1,8 @@
 ---
-alias: Session 3
+aliases:
+  - Session 3
+date: 2023-07-22
 ---
-
-22-07-2023
-
 # Recap
 
 After surviving the night attack of horrendous creatures, most of the group goes back to sleep.

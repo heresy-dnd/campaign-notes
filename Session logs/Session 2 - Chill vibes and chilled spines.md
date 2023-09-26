@@ -1,9 +1,8 @@
 ---
-alias: Session 2
+aliases:
+  - Session 2
+date: 2023-07-19
 ---
-
-19-07-2023
-
 # Recap
 
 Continuing from [[Session 1 - Inexplicable Crew, Inexplicable Place|Session 1]], we are dropped in a lake.

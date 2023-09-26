@@ -1,5 +1,5 @@
 ---
-alias: Beli, Beliminorgath The Flamboyant
+aliases: Beli, Beliminorgath The Flamboyant
 ---
 
 *Played by Bogdan*

@@ -1,5 +1,5 @@
 ---
-alias: Bran Hornraven, Hornraven
+aliases: Bran Hornraven, Hornraven
 ---
 
 *Played by Atom*

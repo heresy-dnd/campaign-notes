@@ -1,9 +1,8 @@
 ---
-alias: Session 4
+aliases:
+  - Session 4
+date: 2023-07-27
 ---
-
-27/07/2023
-
 # Recap
 
 In the inn, we wake up and meet Erik, the man that works there.

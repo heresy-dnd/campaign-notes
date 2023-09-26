@@ -4,7 +4,7 @@
 
 #theory "Aetherian born creatures"?
 1. [[Session 1 - Inexplicable Crew, Inexplicable Place#HOW THE FUCK WAS THIS MANAGED THIS TIME AROUND]]
-   [[Shadowy Man]] says: 
+   [[Roko]] says: 
    > **"Well then, if I am to start again, might as well. Maybe since this much time has passed those annoying Aetherian born creatures do not intervene again"**
    > Looking at Elster:
    > **"You are lucky they like you."**

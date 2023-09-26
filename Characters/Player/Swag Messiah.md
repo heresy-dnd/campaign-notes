@@ -1,5 +1,5 @@
 ---
-alias: Swag, $wag Messiah, $wag
+aliases: Swag, $wag Messiah, $wag
 ---
 
 *Played by chipe*
@@ -21,7 +21,7 @@ Wears a bunch of rings.
 
 ## What is [[Session 1 - Inexplicable Crew, Inexplicable Place#^483304|"it"]] ?
 
-[[Shadowy Man]] said something.
+[[Roko]] said something.
 
 ## What is he remembering in his near death moment?
 

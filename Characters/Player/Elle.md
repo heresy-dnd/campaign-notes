@@ -1,5 +1,5 @@
 ---
-alias: Solveig
+aliases: Solveig
 ---
 
 *Played by Hope*

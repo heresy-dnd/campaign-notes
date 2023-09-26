@@ -1,8 +1,8 @@
 ---
-alias: Session 5
+aliases:
+  - Session 5
+date: 2023-08-01
 ---
-01/08/2023
-
 # Recap
 
 We enter in the tavern again.

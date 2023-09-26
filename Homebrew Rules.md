@@ -1,3 +1,8 @@
+# Spell Points
+
+http://dnd5e.wikidot.com/spell-points Replaces the spell slot system.
+#todo idk if its exactly this system or if there are changes, if there are, they have to be noted here.
+
 # Spellcasting Materials
 
 Spells do not require materials, WITH EXCEPTIONS

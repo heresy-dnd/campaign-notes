@@ -1,9 +1,8 @@
 ---
-alias: Session 1
+aliases:
+  - Session 1
+date: 2023-07-16
 ---
-
-16-07-2023
-
 # Recap
 
 You are all, for different reasons, falling through some sort of void dimension. It feels like it has been forever and you keep reminiscing and wondering how you failed and ended up like this...
@@ -191,7 +190,7 @@ The crystalline ground is slowly cracking from the middle of the room outwards -
 As the earth splits open in front of your feet, a black swirling mist emerges.
 All the robots make a guarding formation.
 
-[[Shadowy Man]]: "HOW THE FUCK WAS THIS MANAGED THIS TIME AROUND"
+[[Roko]]: "HOW THE FUCK WAS THIS MANAGED THIS TIME AROUND"
 
 He floats at 1 guard robot, grabs it, and instantly dismantles it.
 The metal is impossibly bent in the air - in a way you'd expect only the most capable of blacksmiths with decades of experiences to mold it after a lot of work.
@@ -200,15 +199,15 @@ The metal is impossibly bent in the air - in a way you'd expect only the most ca
 
 It is YEETED at the back wall at mach 10.
 
-[[Shadowy Man]]: **"USELESS FUCKING STEWART.
+[[Roko]]: **"USELESS FUCKING STEWART.
 I MADE YOU TO CONTINUE THIS IN CASE OF EMERGENCY, NOT FUCK UP EVEN THE CONTINGENCY OF CONTINGENCIES"**
 
 Within the mist of scrap that was caused by the collision you are miraculously held mid air by a power as he pulls both ([[Elster]], [[Horin]]) of you towards you:
-[[Shadowy Man]]:  **"You are not supposed to be here..."**
+[[Roko]]:  **"You are not supposed to be here..."**
 
 [[Elle]]: "didn't you send us here?"
 
-[[Shadowy Man]]: **"Send you? If anything you should still be in the plains"**
+[[Roko]]: **"Send you? If anything you should still be in the plains"**
 
 The shadow glitches a bit.
 
@@ -216,7 +215,7 @@ The shadow glitches a bit.
 
 [[Swag Messiah]]: "Just, real quick, if you don't mind a small question. Was the "USELESS STEWART" useless at keeping track of time usually?"
 
-[[Shadowy Man]] **"NO"**
+[[Roko]] **"NO"**
 "Okay okay time to calm down a bit"
 "In general, you lot are problematic and my working theory has just been proven. I have dealt with you way too many times for me to be comfortable."
 
@@ -239,7 +238,7 @@ The ground starts breaking away.
 A quick look around you and you see nothing except a weird and incomprehensible assortment of gears and pipes.
 As you slam down onto the platform, you see the shadowy man slowly descend with the scraps of the [[Useless Stewart|the (useless) stewart robot]] next to him.
 As he promptly shoots them into the ground, he starts channeling energy into it.
-[[Shadowy Man]]: **"This should be enough of a challenge yet entertaining for you lot. Play with there I am not interested."**
+[[Roko]]: **"This should be enough of a challenge yet entertaining for you lot. Play with there I am not interested."**
 
 As the construct stands up, you see a large and imposing suit of armor towering 8 meters tall.
 It grabs its mace and slams it into the ground, causing to vibrate and summon 4 more constructs to fight alongside it.
@@ -258,14 +257,14 @@ The combat goes well. All constructs are destroyed.
 [[Horin]] casts **Divine Sense**.
 He does not feel anything from the dust of the defeated drones.
 **But he can feel the stench of evil everywhere else.**
-**Even more so when he realizes [[Shadowy Man]] is back.**
+**Even more so when he realizes [[Roko]] is back.**
 
 He creates a rift above the platform that he walks in from, looking frustrated.
-[[Shadowy Man]] **"Alright now that this entire basilisk is being fixed I can focus on the rest of those idiots."**
+[[Roko]] **"Alright now that this entire basilisk is being fixed I can focus on the rest of those idiots."**
 
 He sees [[Swag Messiah]] casting gang signs to make stupid little smoke effects of yourself and blasts a ray - pushing him back and destroying part of the platform he was standing on.
 He falls into the void.
-[[Shadowy Man]]: **I AM TRYING TO WORK HERE DAMN IT**
+[[Roko]]: **I AM TRYING TO WORK HERE DAMN IT**
 
 **"We have the stupid orc, the scholar, the other scholar is in the void, the peeper and the sea whore."**
 **"Where is the child?"**
@@ -276,16 +275,16 @@ The child is not here.
 
 [[Horin]]: "Wait- What do you mean the other scholar is in the void?"
 
-[[Shadowy Man]]: **"What do I mean? The prick in the piss yellow bedsheets of course. That is not important however."**
+[[Roko]]: **"What do I mean? The prick in the piss yellow bedsheets of course. That is not important however."**
 **"whatever you can go"**
 
 # Combat End - Dropped again
 
-[[Shadowy Man]]: "I have more imporant things to attend to anyways, need to go and visit [[Solara]] as well"
+[[Roko]]: "I have more imporant things to attend to anyways, need to go and visit [[Solara]] as well"
 
-[[Shadowy Man]] is starting to dissolve the platforms.
+[[Roko]] is starting to dissolve the platforms.
 
-Right before he goes to leave [[Shadowy Man]] looks at [[Cedric]] and says **"Oh so you are the chosen one this time around? Interesting choices she makes honestly."**
+Right before he goes to leave [[Roko]] looks at [[Cedric]] and says **"Oh so you are the chosen one this time around? Interesting choices she makes honestly."**
 [[Cedric]] is bewildered.
 
 Where the platform once was, you now see a light at the bottom.
