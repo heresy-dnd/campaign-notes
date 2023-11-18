@@ -201,7 +201,7 @@ So far his mannerisms and actions remind you of a more happy, upright and proper
 He points his hand to one of the stores on the side of the road. As there is magic swirling within and around it, he asks calmly 
 "While Erik is taking care of this problem down south, I would like all of you to get in there and let me handle the rest on this part of Aurelia."
 
-Everyone remaining except Elster goes in the shop.
+Everyone remaining goes in the shop, Elster does so reluctantly.
 
 The comets are rapidly approaching.
 
