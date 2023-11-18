@@ -15,13 +15,16 @@ General stuff:
 Player characters:
 [[Elle]]:
 - has a girl or something and she's in a "cage" that Elster saw thanks to Ariane
+
 [[Swag Messiah]]:
 - was a great asset in the war against Roko in his home
 - completely fucking loosing it
 - alzheimer? wtf
+
 [[Horin]]:
 - was born in the war against Roko. He says they were winning, and thinks his world made it alongside the Shadowfell.
 - realizes how unhelpful his actions were in [[Session 8 - CHAOS]] and regrets it
+
 [[Beliminorgath]]:
 - exhausted, goes schizo against Elster and then nini time
 
