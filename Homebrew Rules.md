@@ -42,6 +42,8 @@ Spell preparation is removed.
 2. [clearer explanation](https://discord.com/channels/1126260950429872178/1126260950429872180/1128412070140977212)
 3. [confirmation this is for wizards only](https://discord.com/channels/1126260950429872178/1126260950429872180/1128420772554211468)
 
+#todo yeah i missed something https://discord.com/channels/1126260950429872178/1126260950429872180/1159210256308645949
+
 # Shared Dream sessions
 
 **If two or more characters sleep in close proximity (long rest), they get created a "slot" which can be filled with a dream session.**

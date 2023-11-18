@@ -3,6 +3,8 @@ aliases:
   - Erikson
   - Erikson Von Sorensen
   - Sorensen
+tags:
+  - roko-family
 ---
 Bartender / Inn manager... and a bit more.
 

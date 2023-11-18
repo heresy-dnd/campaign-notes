@@ -24,3 +24,7 @@ However, [[Roko]] told him:
 > "Oh so you are the chosen one this time around? Interesting choices she makes honestly."
 
 Cedric is bewildered at this.
+
+# RIP
+
+Died in some fight.

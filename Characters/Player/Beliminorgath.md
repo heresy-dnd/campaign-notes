@@ -1,7 +1,6 @@
 ---
 aliases: Beli, Beliminorgath The Flamboyant
 ---
-
 *Played by Bogdan*
 
 Class: **Bard**
@@ -16,3 +15,5 @@ Race: **Minotaur**
 
 "imagine a really furry minotaur with bagpipes"
 Plays ""soothing"" death metal.
+
+![[Untitled.jpg]]

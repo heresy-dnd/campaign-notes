@@ -1,6 +1,10 @@
+---
+tags:
+  - roko-family
+---
 *Played by Arri*
 
-Class: #unknown 
+Class: Warlock
 Race: #unknown 
 
 > *The last one, and probably most unfortunate one of you all, is you Elster.*
