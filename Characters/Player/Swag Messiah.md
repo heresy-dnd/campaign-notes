@@ -26,3 +26,7 @@ Wears a bunch of rings.
 ## What is he remembering in his near death moment?
 
 [[Session 2 - Chill vibes and chilled spines#The Swag incident.]]
+
+# lore dropped
+
+Topazia, [[Session 8b - larp#^34b283]]
