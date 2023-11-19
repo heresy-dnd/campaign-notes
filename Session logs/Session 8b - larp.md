@@ -91,7 +91,7 @@ Swag steals 13 water rocks lmfao
 ---
 # ⚠️ BIG LORE:
 
-![[Pasted image 20231118172220.png]]
+![[cursed.png]]
 
 ---
 
